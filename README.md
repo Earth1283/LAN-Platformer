@@ -102,9 +102,9 @@ Connects to the server for receiving terrain and player data.
 
 Sends player movement data to the server.
 
-# Troubleshooting
+# 🛠️Troubleshooting
 
-## Common Issues
+## ❓Common Issues
 
 ### Terrain Doesn't Generate:
 
@@ -124,7 +124,7 @@ Ensure all machines are on the same LAN.
 
 Minimize network congestion.
 
-# Future Enhancements
+# 🌟Future Enhancements
 
 Add collision detection for players and obstacles.
 
